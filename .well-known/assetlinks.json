@@ -1,8 +1,10 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.swingup.scorecard",
-        "sha256_cert_fingerprints": ["C3:27:1F:8E:3C:0C:90:4B:D7:3F:99:F6:0D:08:8B:B6:0A:85:77:D4:AB:69:6C:5F:DD:74:03:39:52:EF:61:C1"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.emqgroup.swingupscorecard",
+    "sha256_cert_fingerprints": [
+      "6A:62:58:6A:FE:3E:74:F2:A9:93:03:AE:79:73:11:2E:F5:7D:18:EE:F9:AD:07:EB:B6:69:5F:1C:4D:CA:56:B8"
+    ]
+  }
+}]
