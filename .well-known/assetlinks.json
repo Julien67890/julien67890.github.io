@@ -9,5 +9,15 @@
         "A1:03:C3:E8:81:75:8E:47:87:48:61:D3:A1:05:06:E2:2C:8F:EF:DE:AC:54:80:7A:71:25:C1:12:24:51:32:57"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.emqgroup.f1fingerrace",
+      "sha256_cert_fingerprints": [
+        "78:77:81:D0:32:64:69:D5:3D:81:DA:0E:08:47:0E:62:0E:A0:46:AE:F6:ED:B6:E9:37:AD:C4:10:DB:F8:81:2C"
+      ]
+    }
   }
 ]
