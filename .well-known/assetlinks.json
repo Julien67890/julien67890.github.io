@@ -17,7 +17,8 @@
       "package_name": "app.emqgroup.f1fingerrace",
       "sha256_cert_fingerprints": [
         "D7:D5:8A:ED:CC:A4:5A:4F:8A:D4:64:8C:DA:E7:81:4F:B7:C7:54:D0:4C:B2:56:CC:D4:BC:3F:B1:9B:CB:58:07",
-        "6B:9D:AC:16:43:E9:01:7C:41:78:D6:E6:14:E3:93:6F:9D:86:83:10:3B:2B:AB:5A:A2:60:8A:A6:67:0D:BD:88"
+        "6B:9D:AC:16:43:E9:01:7C:41:78:D6:E6:14:E3:93:6F:9D:86:83:10:3B:2B:AB:5A:A2:60:8A:A6:67:0D:BD:88",
+        "A1:DF:F2:25:1D:23:15:05:D0:73:B6:4B:E2:D0:B2:95:6B:68:90:34:E8:BC:32:8B:00:E6:3B:38:FB:7B:CB:F4"
       ]
     }
   }
